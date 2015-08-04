@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Content Strategy](content-strategy.md)
 * [Information Architecture](ia.md)
 * [Prototyping](prototyping/README.md)
